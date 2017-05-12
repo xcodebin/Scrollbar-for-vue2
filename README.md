@@ -107,3 +107,6 @@ Just Contact Me At:
 - Email: [xcodebin@outlook.com](mailto:xcodebin@outlook.com)
 - Web: [https://github.com/xcodebin](https://github.com/xcodebin)
 - Web: [https://git.oschina.net/xubinxcode](https://git.oschina.net/xubinxcode)
+
+##Tips:
+ draw on the experience of vue2-scrollbar
