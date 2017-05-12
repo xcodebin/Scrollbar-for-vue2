@@ -1,6 +1,14 @@
 
 ## Usage
 
+npm install vue-cli -g
+
+npm install
+
+npm run dev 
+
+npm run dist
+
 ```
 main.js
 
