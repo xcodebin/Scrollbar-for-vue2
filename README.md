@@ -109,4 +109,6 @@ Just Contact Me At:
 - Web: [https://git.oschina.net/xubinxcode](https://git.oschina.net/xubinxcode)
 
 ##Tips:
+```
  draw on the experience of vue2-scrollbar
+```
