@@ -29,7 +29,7 @@ App.vue
 
 <template>
   <Scrollbar class="my-scrollbar" classes="" styles="" v-bind:speed=100>
-         <div class="scroll-me">
+         <div class="scroll-me">               //scrollbar must have a container inside as root 
          </div>
   </Scrollbar>
 </template>

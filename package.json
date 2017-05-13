@@ -1,9 +1,8 @@
 {
-  "name": "scrollbar",
+  "name": "Scrollbar for vue2",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "xcodebin <xb865453422@hotmail.com>",
-  "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
