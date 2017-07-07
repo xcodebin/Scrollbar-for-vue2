@@ -105,7 +105,8 @@
       },
 
       jump(e){
-
+        e.preventDefault();
+        e.stopPropagation();
         let isContainer = e.target === this.$refs.container;
 
         if (isContainer) {
